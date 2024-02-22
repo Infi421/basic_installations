@@ -19,7 +19,7 @@ git clone https://github.com/ROBOTIS-GIT/turtlebot3_simulations.git
 cd ~/catkin_ws && catkin_make
 echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
 cd
-print("DONE! Ready to go...");
+print("DONE! Ready to go...")
 
 
 
